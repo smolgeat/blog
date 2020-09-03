@@ -5,4 +5,4 @@ permalink: /portfolio/
 ---
 
 # Visualizations
-![image](/assets/img/NYC.png)
+<img src="{{site.baseurl}}/assets/img/NYC.jpg">
