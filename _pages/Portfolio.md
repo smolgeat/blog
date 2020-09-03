@@ -5,4 +5,4 @@ permalink: /portfolio/
 ---
 
 # Visualizations
-![](assets/images/NYC.png)
+![](assets/img/NYC.png)
