@@ -4,4 +4,5 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-# Under Construction
+# Visualizations
+![image](/assets/img/NYC.png)
