@@ -20,7 +20,7 @@ potential of one volt applied at the two points produces a
 current flow of one ampere in the conductor.
 Thus resistance, in ohms:
 
-![image](/assets/img/resistance-resistive.png)
+![](assets/img/resistance-resistive.png)
 
 where V is the potential difference across the two points
 in volts and I is the current flowing between the two points
@@ -51,10 +51,10 @@ The total resistance RT of some resistors in series RS<sub>1</sub>,RS<sub>2</sub
 
 In parallel the total resistance is the  
 The total resistance RT of some resistors in parallel RP<sub>1</sub>,RP<sub>2</sub>,RP<sub>N</sub> is
-![image](/assets/img/paralleresistor.png)
+![](assets/img/paralleresistor.png)
 
 If there are just two resistors in parallel the total resistance is   simply the product of both resistors divided by the sum of both resistors 
-![image](/assets/img/prodsumresistor.png)
+![](assets/img/prodsumresistor.png)
 
 ## Now onto the problem
 
@@ -62,7 +62,7 @@ Analyse the series parallel resistive dc circuit below to produce the total circ
 The user of the program should be requested for the source voltage and the values of the resistors.
 The user should also be asked for the number of series and parallel resistors in the circuit.
 
-![image](/assets/img/img-resistive-network.jpg)
+![](assets/img/img-resistive-network.jpg)
 
 ## Solving the problem
 
