@@ -54,7 +54,7 @@ The total resistance RT of some resistors in parallel RP<sub>1</sub>,RP<sub>2</s
 ![image]({{ site.baseurl }}/assets/img/paralleresistor.png)
 
 If there are just two resistors in parallel the total resistance is   simply the product of both resistors divided by the sum of both resistors 
-![image]{{ site.baseurl }}/(assets/img/prodsumresistor.png)
+![image]({{ site.baseurl }}/assets/img/prodsumresistor.png)
 
 ## Now onto the problem
 
