@@ -1,7 +1,21 @@
 ---
 layout: page
-title: About Me
+title: About
 permalink: /about/
 ---
 
-# Under Construction
+Developer by day machine learning by night. Currently a casual competitor on [Kaggle](https://www.kaggle.com/smolgeat). 
+
+## Current Interests/Projects
+Applying machine learning to energy and agriculture sectors<br>
+Form extraction using NLP<br>
+Julia for ML<br>
+[Content based movie recommender](https://github.com/smolgeat/Summer-2020-MWML)<br>
+[NYC housing price predictor](https://github.com/smolgeat/NYC_property_sales)<br>
+
+## Skills
+### Languages
+Python, C, C++, Javascript, SQL
+###  Frameworks/Tools
+Pytorch, Sci-kit Learn, Django, Flask, Azure, Amazon Web Services
+
