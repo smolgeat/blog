@@ -39,10 +39,10 @@
 
   
       ,"page2": {
-          "title": "Portfolio",
-          "content": "Visualizations . .",
-          "url": "https://kelvinsmith.dev/portfolio/",
-          "relUrl": "/portfolio/",
+          "title": "DataViz",
+          "content": ".",
+          "url": "https://kelvinsmith.dev/dataviz/",
+          "relUrl": "/dataviz/",
           "date": ""
       }
       
