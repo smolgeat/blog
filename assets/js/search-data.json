@@ -28,17 +28,6 @@
 
   
       ,"page1": {
-          "title": "About",
-          "content": "Developer by day machine learning by night. Currently a casual competitor on Kaggle. . Current Interests/Projects . Applying machine learning to energy and agriculture sectors Form extraction using NLP Julia for ML Content based movie recommender NYC housing price predictor . Skills . Languages . Python, C, C++, Javascript, SQL . Frameworks/Tools . Pytorch, Sci-kit Learn, Django, Flask, Azure, Amazon Web Services .",
-          "url": "https://kelvinsmith.dev/about/",
-          "relUrl": "/about/",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page2": {
           "title": "DataViz",
           "content": ".",
           "url": "https://kelvinsmith.dev/dataviz/",
